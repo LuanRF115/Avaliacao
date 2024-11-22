@@ -1,0 +1,7 @@
+C:\Users\luan.rfelipe\source\repos\avaliação\avaliação\bin\Debug\avaliação.exe.config
+C:\Users\luan.rfelipe\source\repos\avaliação\avaliação\bin\Debug\avaliação.exe
+C:\Users\luan.rfelipe\source\repos\avaliação\avaliação\bin\Debug\avaliação.pdb
+C:\Users\luan.rfelipe\source\repos\avaliação\avaliação\obj\Debug\avaliação.csproj.AssemblyReference.cache
+C:\Users\luan.rfelipe\source\repos\avaliação\avaliação\obj\Debug\avaliação.csproj.CoreCompileInputs.cache
+C:\Users\luan.rfelipe\source\repos\avaliação\avaliação\obj\Debug\avaliação.exe
+C:\Users\luan.rfelipe\source\repos\avaliação\avaliação\obj\Debug\avaliação.pdb
